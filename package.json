@@ -2,7 +2,6 @@
   "name": "projeto11-tweteroo",
   "version": "1.0.0",
   "type": "module",
-  "description": "",
   "main": "index.js",
   "dependencies": {
     "cors": "^2.8.5",
@@ -14,5 +13,14 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viniciuscoassis/projeto11-tweteroo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/viniciuscoassis/projeto11-tweteroo/issues"
+  },
+  "homepage": "https://github.com/viniciuscoassis/projeto11-tweteroo#readme",
+  "description": ""
 }
